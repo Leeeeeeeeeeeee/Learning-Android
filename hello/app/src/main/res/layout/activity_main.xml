@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_ui"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UI"
+        android:textAllCaps="false"/>
+
+
+    <Button
+        android:id="@+id/btn_life_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LIFE RECYCLER"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_jump"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JUMP"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FRAGMENT"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_event"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="EVENT"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_datastoraga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DATA STORAGE"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_broad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Broad Cast"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_objectanim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Object Animation"
+        android:textAllCaps="false"/>
+
+
+</LinearLayout>
